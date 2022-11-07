@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#container_principal{
+    font-family: Roboto Light sans-serif;
+
+}
+
+#container{
+    font-family: Roboto Light sans-serif;
+    background-color: #fdf8f2;
+    border: 2px solid black;
+    text-align: center;
+    position: relative;
+    left: 1.3rem;
+    top: 1rem;
+    width: 98%;
+}
+
+.container2{
+  padding: 15rem;
+
+}
+
+.footer{
+    position: relative;
+    right: 14px;
+    top: 20px;
+    left: -2px;
+}
+
+h1{
+    padding: 2rem;
+}
+
+.image2{
+    margin-left: -40rem;
+
+}
+
+.image1{
+    margin-top: -14rem;
+    margin-right: -30rem;
+}
+
+.para1{
+    text-align: center;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding: 2rem;
+}
+
+
+
